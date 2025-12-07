@@ -1,0 +1,11 @@
+remote_theme: "mmistakes/minimal-mistakes"
+## theme: "minimal-mistakes-jekyll"
+
+minimal_mistakes_skin: 'dark'
+title: About me
+description: Here you can find some of my work and achievements. Enjoy!
+
+plugins:
+    - jekyll-include-cache
+
+repository: adamandreas/AAT.github.io
